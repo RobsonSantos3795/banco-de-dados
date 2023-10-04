@@ -1,0 +1,26 @@
+html{
+    background-color: rgb(80, 219, 99);
+    max-width: 600px bold;
+    
+    
+}
+.titulo{
+    text-align: center;
+    
+}
+.cor{
+    
+    width: 60%;
+    height: auto ;
+    margin: auto;
+    padding: 40px;
+    background-color: white;
+    border-radius: 5px;
+    font-weight: bold;
+    
+}
+
+.margem{
+    display: flex;
+    width: 25%;
+}
